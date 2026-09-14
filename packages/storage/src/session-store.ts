@@ -127,7 +127,6 @@ import type {
 } from '@maka/core/sandbox-boundary';
 
 import type { CreateSessionInput, SessionListFilter } from '@maka/core/runtime-inputs';
-import { DEFAULT_TOOL_MODE, isToolMode } from '@maka/core/tool-mode';
 
 import type {
   SessionHeader,
